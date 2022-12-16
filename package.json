@@ -1,0 +1,16 @@
+{
+  "name": "testing_mocha",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Testing JavaScript with Mocha",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "JJAR",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
